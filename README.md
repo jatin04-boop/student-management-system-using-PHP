@@ -84,9 +84,10 @@ Student-Management-System-PHP/
 
 ## 📝 Screenshots
 
-<img width="805" alt="Screenshot 2025-05-14 at 9 53 33 PM" src="https://github.com/user-attachments/assets/7f5141b2-81cc-4133-b2f7-fe33e84a72f1" />
-<img width="800" alt="Screenshot 2025-05-14 at 9 53 41 PM" src="https://github.com/user-attachments/assets/71f1badf-2932-4908-b99c-219c6b81284e" />
-<img width="812" alt="Screenshot 2025-05-14 at 9 53 51 PM" src="https://github.com/user-attachments/assets/0385d6e3-c0f3-4733-9723-7995912ef2b0" />
+<img width="1067" alt="Screenshot 2025-05-14 at 10 04 29 PM" src="https://github.com/user-attachments/assets/9f107ed8-e7bc-4b8f-a174-02ac417a950e" />
+<img width="1081" alt="Screenshot 2025-05-14 at 10 04 39 PM" src="https://github.com/user-attachments/assets/708b5356-afb6-4f04-ab0f-b3b6b55b0d46" />
+<img width="1079" alt="Screenshot 2025-05-14 at 10 04 49 PM" src="https://github.com/user-attachments/assets/b33a239f-0b11-4ac4-83c8-29d5a58afbab" />
+
 
 ---
 
