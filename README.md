@@ -9,14 +9,23 @@ This is a **Student Management System** developed using **PHP and MySQL**. The s
 
 Student-Management-System-PHP/
 ├── Readme.txt # Original notes
+
 ├── SQL File/
-│ └── studentmsdb.sql # MySQL database file
+
+  └── studentmsdb.sql # MySQL database file
+  
 └── studentms/
+
 ├── index.php # Homepage
+
 ├── about.php, contact.php # Static content pages
+
 ├── view-public-notice.php # Notice board
+
 ├── css/ # Stylesheets
+
 ├── js/ # JavaScript files
+
 └── images/ # Images and assets
 
 
